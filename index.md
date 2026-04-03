@@ -1,7 +1,6 @@
 ---
-title: Home
+title: Hello World
 ---
 
-# Hello World
-Mateus A. R. Braga personal website is under development.
 
+Mateus A. R. Braga personal website is under development.
