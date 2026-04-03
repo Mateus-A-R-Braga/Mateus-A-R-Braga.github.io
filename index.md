@@ -1,5 +1,6 @@
 ---
 title: Mateus A. R. Braga
+layout: default
 ---
 
 Mateus A. R. Braga personal website is under development.
