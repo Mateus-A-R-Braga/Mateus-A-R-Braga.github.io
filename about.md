@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-# About Me
+# Who am I?
 
-I am Ph.D. candidate at the University of Colorado Boulder in the Department of Aerospace and Engineering Sciences. Motivated by hypersonic (re-entry) flow applications, my research focuses on compressible boundary layer flow over fully rough surfaces, including stability, turbulence, and wall temperature effects. 
+I am Ph.D. candidate at the University of Colorado Boulder in the Department of Aerospace Engineering Sciences. Motivated by hypersonic (re-entry) flow applications, my research focuses on compressible boundary layer flow over fully rough surfaces, including stability, turbulence, and wall temperature effects. 
 
-## Education
+# Education
 
 Ph.D. in Aerospace Engineering Sciences (expected 2026)<br>
 University of Colorado Boulder<br>
