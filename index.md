@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![Photograph of Mateus A. R. Braga](images/Mateus-Braga-Headshot-May-2024.jpg)
+![Photograph of Mateus A. R. Braga](images/Mateus-Braga-Headshot-May-2024.jpg)<br>
 Mateus A. R. Braga<br>
 Welcome to my personal website. See the [About](about.md) page to learn more about me.<br>
   
