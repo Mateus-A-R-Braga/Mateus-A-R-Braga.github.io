@@ -13,4 +13,5 @@ This website is under development, stay tuned for more to come!<br>
 # Turbulence in Compressible Flows
 University of Colorado Boulder ASEN 6037 guest lecture: Turbulence in Compressible Flows
 > [Lecture Slides (April 9, 2026)](docs/Turbulence-in-Compressible-Flows-Presentation.pdf)<br>
-> [Supplemental Document](docs/Turbulence_in_compressible_flows.pdf)
+> [Supplemental Document](docs/Turbulence_in_compressible_flows.pdf)<br>
+> [Statistics Extraction](docs/stats_extract_turb_comp_TKE_budget_and_heat_transfer.pdf)
